@@ -1,4 +1,4 @@
-# ✈️ CONNECT
+#  CONNECT
 ## 〜旅の出会いを、もっと特別に〜
 
 旅行計画を共有して、同じ目的地や興味を持つ旅仲間を見つけるWebアプリケーションです。
@@ -22,7 +22,7 @@ ZIPを解凍し、`travel_match`フォルダを配置：
 ### ステップ3: サーバーを起動
 1. MAMP（またはXAMPP）を起動
 2. 「Start Servers」をクリック
-3. Apache と MySQL が緑色になればOK ✅
+3. Apache と MySQL が緑色になればOK 
 
 ### ステップ4: セットアップを実行
 ブラウザで以下にアクセス：
@@ -142,7 +142,7 @@ http://localhost:8888/travel_match/migrate_photo.php
 
 ---
 
-## 📡 他のPCやスマホからアクセスする
+## 他のPCやスマホからアクセスする
 
 同じWi-Fiネットワーク内の他のデバイスからもアクセスできます。
 
