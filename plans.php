@@ -142,7 +142,7 @@ $hasSearch = $searchPrefecture || $searchPurpose || $searchActivity || $searchBi
         /* ユーザーアバター（写真の上に重ねる） */
         .photo-plan-avatar {
             position: absolute;
-            bottom: -20px;
+            bottom: 10px;
             left: 16px;
             width: 48px;
             height: 48px;
