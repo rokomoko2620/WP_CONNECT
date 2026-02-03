@@ -65,8 +65,8 @@ $unreadCount = $currentUser ? getUnreadCount($currentUser['id']) : ['total' => 0
             transform: rotate(5deg) scale(1.03);
         }
         .photo-card img {
-            width: 240px;
-            height: 170px;
+            width: 360px;
+            height: 240px;
             object-fit: cover;
             display: block;
         }
